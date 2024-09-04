@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Generative AI project<br>👯 I’m looking to collaborate on Machine Learning and Data Science projects<br>🌱 I’m currently learning Computer Science at University of Moratuwa<br><br>
+🔭 I’m currently working on a Generative AI project<br>👯 I’m looking to collaborate on Machine Learning and Data Science projects<br>🌱 I’m currently learning Computer Science & Engineering at University of Moratuwa<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumudh-ranasinghe-545780241)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23934F26.svg?logo=&logoColor=white)](https://kumudhranasinghe.github.io)
 
